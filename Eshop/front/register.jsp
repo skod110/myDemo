@@ -151,7 +151,7 @@
 		<div class="col-lg-3"></div>
 		<div class="col-lg-6" 
 			style="padding: 40px 80px;margin: 30px; border: 7px solid royalblue;">
-			<form id="registForm" action="${pageContext.request.contextPath }/user?mmethod=register" method="post">
+			<form id="registForm" action="${pageContext.request.contextPath }/user?method=register" method="post">
 			  <div class="form-group">
 			   <label style="font-size: 20px;color: darkmagenta;">用户注册</label>
 			  </div>
