@@ -27,17 +27,15 @@
     <style>
     	li{
 				
-				list-style-type:none;
-			}
+		list-style-type:none;
+	}
     	.font-con{
-				color: white;
-			}
-		#pro{
-				
-			}
-		.error{
-			color:red
-		}
+		color: white;
+	}
+	
+	.error{
+		color:red
+	}
     </style>
 <script type="text/javascript">
 	 function reload(){
